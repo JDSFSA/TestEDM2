@@ -3,3 +3,9 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "nil"
 search_enabled: true
 heading_anchors: true
+
+# Analytics
+analytics:
+  provider               :  "custom"
+  google:
+    tracking_id          :  G-P823R7DF98
